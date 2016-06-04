@@ -1,7 +1,5 @@
 accounts-base@1.2.7
-accounts-oauth@1.1.12
 accounts-password@1.1.8
-accounts-twitter@1.0.9
 aldeed:collection2@2.9.1
 aldeed:collection2-core@1.1.1
 aldeed:schema-deny@1.0.1
@@ -84,6 +82,7 @@ mongo-id@1.0.4
 mongo-livedata@1.0.12
 nova:api@0.26.1-nova
 nova:base-components@0.26.1-nova
+nova:base-routes@0.26.1-nova
 nova:base-styles@0.26.1-nova
 nova:categories@0.26.1-nova
 nova:comments@0.26.1-nova
@@ -109,9 +108,8 @@ nova:users@0.26.1-nova
 nova:voting@0.26.1-nova
 npm-bcrypt@0.8.5
 npm-mongo@1.4.43
-oauth@1.1.10
-oauth1@1.1.9
 observe-sequence@1.0.11
+one-project-theme@0.0.0
 ongoworks:speakingurl@9.0.0
 ordered-dict@1.0.7
 peerlibrary:assert@0.2.5
@@ -147,7 +145,6 @@ templating-tools@1.0.4
 tmeasday:check-npm-versions@0.3.1
 tmeasday:publish-counts@0.7.3
 tracker@1.0.13
-twitter@1.1.9
 ui@1.0.11
 underscore@1.0.8
 url@1.0.9

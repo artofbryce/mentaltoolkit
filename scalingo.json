@@ -1,8 +1,7 @@
 {
-  "name": "Telescope",
-  "description": "An open-source community app built with Meteor",
-  "repository": "https://github.com/TelescopeJS/sample-project/",
-  "logo": "http://www.telescopeapp.org/images/logo.png",
-  "website": "http://www.telescopeapp.org/",
+  "name": "One Project",
+  "description": "Discover The Healing Power Of Photography",
+  "logo": "http://course.theoneproject.co/wp-content/uploads/sites/2/2016/05/TheOneProject-Logomark.png",
+  "website": "http://www.mentaltooklit.co/",
   "addons": ["scalingo-mongodb"]
 }

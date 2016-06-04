@@ -1,5 +1,5 @@
 Package.describe({
-  name: "my-custom-package"
+  name: "one-project-theme"
 });
 
 Package.onUse( function(api) {
@@ -12,7 +12,17 @@ Package.onUse( function(api) {
     'nova:core',
     'nova:base-components',
     'nova:posts',
-    'nova:users'
+    'nova:users',
+    'nova:comments',
+    'nova:categories',
+    'nova:email',
+    'nova:embedly',
+    'nova:search',
+    'nova:voting',
+    'nova:forms',
+    'nova:kadira',
+    'nova:share'
+
   ]);
 
   api.addFiles([

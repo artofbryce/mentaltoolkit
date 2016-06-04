@@ -30,7 +30,7 @@ nova:base-routes
 nova:email-templates
 
 accounts-password
-accounts-twitter
+# accounts-twitter
 # accounts-facebook
 
 ############ Debug Packages ############
@@ -40,4 +40,6 @@ nova:debug
 ############ Your Packages ############
 
 # uncomment to activate example custom package
-# my-custom-package
+one-project-theme
+service-configuration
+react-meteor-data

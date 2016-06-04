@@ -21,6 +21,7 @@ class CustomPostsItem extends Telescope.components.PostsItem {
       <div className={postClass}>
         
         <div className="posts-item-vote">
+          Vote Here
           <Vote post={post} currentUser={this.props.currentUser}/>
         </div>
         
